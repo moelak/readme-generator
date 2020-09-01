@@ -2,7 +2,7 @@
 
   # README Generator
   
-  ![Alt Text](https://giphy.com/embed/TjRfQQx1SbaWfElPwx)
+  ![Alt Text](https://giphy.com/gifs/TjRfQQx1SbaWfElPwx)
 
   
   ### **Description:** Creating a command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). The application will be invoked with the following command: `node index.js`
