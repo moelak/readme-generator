@@ -41,7 +41,7 @@ I used the `Inquirer.js`,`inquirer-recursive`,and `fs`(file system).
 
 ## Badges
 ---
-[![Generic badge](https://img.shields.io/badge/Javascript-100%-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Javascript-100%25-%3CCOLOR%3E.svg)](https://shields.io/)
 
 
 ## Contributing
