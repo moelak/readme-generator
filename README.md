@@ -2,7 +2,7 @@
 
   # README Generator
   
-  <iframe src="https://giphy.com/embed/TjRfQQx1SbaWfElPwx" width="480" height="370" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TjRfQQx1SbaWfElPwx">via GIPHY</a></p>
+  ![Alt Text](https://giphy.com/embed/TjRfQQx1SbaWfElPwx)
 
   
   ### **Description:** Creating a command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). The application will be invoked with the following command: `node index.js`
