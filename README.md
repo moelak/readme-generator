@@ -19,7 +19,7 @@
  * [Questions](#questions)
  
  ## Installation
----
+
 * Clone the repository
 
  * Run the `npm Install` to create a node_modules 
@@ -28,25 +28,25 @@
  * Answer the questions
 
 ## Usage
----
+
 
 A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 
 ## Credits
----
+
 I used the `Inquirer.js`,`inquirer-recursive`,and `fs`(file system).
 
 ## License
----
+
 #### License: MIT
 
 
 ## Contributing
----
+
 Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
 ## Tests
----
+
 
 ```
 Just making sure to use the correct format for each section and Items.
