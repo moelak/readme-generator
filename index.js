@@ -7,15 +7,18 @@ const questions = [
   {
     name: 'title',
     message: 'Whats is the title?',
+    default: 'My project',
   },
   {
     name: 'description',
     message: 'Whats is the description?',
+    default: 'Description...',
   },
 
   {
     name: 'usage',
     message: 'Insert the Usage:',
+    default: 'The usage',
   },
   {
     type: 'list',
@@ -23,37 +26,35 @@ const questions = [
     message: 'What is the name of the License?',
     choices: ['BSD', 'MIT', 'GPL'],
   },
-  {
-    name: 'badges',
-    message: 'Insert the badges:',
-  },
-  {
-    name: 'badgeValue',
-    message: 'Insert the badge value:',
-  },
+
   {
     name: 'contributing',
     message: 'Insert the Contributing:',
+    default: 'Contributing...',
   },
   {
     name: 'tests',
     message: 'Insert the Tests:',
+    default: 'insert the test...',
   },
 
   {
     name: 'questions',
     message: 'Insert the QUESTIONS:',
+    default: 'QUESTIONS...',
   },
 
   {
     type: 'input',
     name: 'credit',
     message: 'Please include the Credits?',
+    default: 'Credits...',
   },
 
   {
     name: 'firstItem',
     message: 'Please add the installation Item?',
+    default: 'Installation items...',
   },
 
   {
