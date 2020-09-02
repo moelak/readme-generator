@@ -1,9 +1,8 @@
-
-
-  # README Generator
+[![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg)](https://en.wikipedia.org/wiki/MIT_License)
   
-  ![Alt Text](https://media.giphy.com/media/TjRfQQx1SbaWfElPwx/giphy.gif)
+  # README Generator
 
+ ![Alt Text](https://media.giphy.com/media/TjRfQQx1SbaWfElPwx/giphy.gif)
   
   ### **Description:** Creating a command-line application that dynamically generates a professional README.md from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer). The application will be invoked with the following command: `node index.js`
 
@@ -41,14 +40,10 @@ I used the `Inquirer.js`,`inquirer-recursive`,and `fs`(file system).
 ---
 #### License: MIT
 
-## Badges
----
-[![Generic badge](https://img.shields.io/badge/Javascript-100%25-%3CCOLOR%3E.svg)](https://shields.io/)
-
 
 ## Contributing
 ---
- Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
 ## Tests
 ---
